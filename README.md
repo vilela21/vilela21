@@ -1,5 +1,5 @@
 ## Prazer! Eu sou o Vilela! 👋
-Cursando no SENAI
+Cursando no SENAI desde março de 2024.
 ## Sou Dev de Sistemas e minhas tecnologias são:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -11,4 +11,4 @@ Cursando no SENAI
 ## Nunca é tarde pra dar "Restart"... ![Playstation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
 
 
-![BMW](https://aleen42.github.io/badges/src/bmw.svg)
+Futuro usuário de ![BMW](https://aleen42.github.io/badges/src/bmw.svg).
