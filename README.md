@@ -8,8 +8,7 @@ Cursando no SENAI
 
 ![Vilela's GitHub stats](https://github-readme-stats.vercel.app/api?username=vilela21&show_icons=true&theme=transparent)
 
-## Nunca é tarde pra dar "restart" 
-![Playstation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
+## Nunca é tarde pra dar "Restart"... ![Playstation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
 
 
 ![BMW](https://aleen42.github.io/badges/src/bmw.svg)
