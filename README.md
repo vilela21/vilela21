@@ -10,6 +10,5 @@
 
 ## Seja sua melhor versão. Stay Hard.
 
-![Playstation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white) e 
-
+![Playstation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
 ![BMW](https://aleen42.github.io/badges/src/bmw.svg)
