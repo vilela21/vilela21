@@ -8,4 +8,7 @@
 
 ![Vilela's GitHub stats](https://github-readme-stats.vercel.app/api?username=vilela21&show_icons=true&theme=transparent)
 
-Seja sua ##melhor versão.
+## Seja sua melhor versão. Stay Hard.
+
+![Playstation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white) e 
+![BMW](https://aleen42.github.io/badges/src/bmw.svg)
