@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
 
-## Prazer! Eu sou o Vilela! 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&left=true&vCenter=true&width=1000&lines=Oi!+Prazer+eu+sou+o+Vilela!+👋;Bem+Vindo+ao+meu+perfil!)
+
 Cursando no SENAI desde março de 2024.
 ## Sou Dev de Sistemas e minhas tecnologias são:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
