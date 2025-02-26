@@ -14,9 +14,6 @@ Cursando no SENAI desde março de 2024.
 ![VsCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
-
-![Vilela's GitHub stats](https://github-readme-stats.vercel.app/api?username=vilela21&show_icons=true&theme=transparent)
-
 ## Nunca é tarde pra dar "Restart"... ![Playstation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
