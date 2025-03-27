@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=header"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&left=true&vCenter=true&width=1000&font=Dancing+Script&lines=Prazer,+eu+sou+o+Vilela!+👋🏻;Boas+Vindas+ao+meu+perfil!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&left=true&vCenter=true&width=1000&font=Lobster&lines=Prazer,+eu+sou+o+Vilela!+👋🏻;Boas+Vindas+ao+meu+perfil!)
 
 Cursando no SENAI desde março de 2024.
 ## Sou Dev de Sistemas e minhas tecnologias são:
