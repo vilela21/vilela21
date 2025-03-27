@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=header"/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&left=true&vCenter=true&width=1000&lines=Prazer,+eu+sou+o+Vilela!+👋🏻;Boas+Vindas+ao+meu+perfil!)
 
