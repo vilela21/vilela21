@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&left=true&vCenter=true&width=1000&font=Press+Start+2P&lines=Prazer,+eu+sou+o+Vilela!+𒉭;Boas+Vindas+ao+meu+perfil!)
 
@@ -11,5 +11,4 @@
 
 ## ![PlayStation](https://img.shields.io/badge/PlayStation-%23FFFFFF.svg?style=for-the-badge&logo=playstation&logoColor=black)  
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=footer"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
