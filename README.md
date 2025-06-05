@@ -1,6 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ADD8E6&height=120&section=header"/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&left=true&vCenter=true&width=1000&font=Press+Start+2P&lines=Prazer,+eu+sou+o+Vilela!+𒉭;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&left=true&vCenter=true&width=1000&font=Press+Start+2P&lines=Prazer,+visão;)
 
 ## My specialties... I guess  
 [![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://java.com)  
