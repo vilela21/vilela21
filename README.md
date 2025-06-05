@@ -13,8 +13,7 @@
 
 ## IDE's:  
 [![Intellij IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)  
-[![VsCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)  
-[![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91.svg?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://visualstudio.microsoft.com/)  
+[![VsCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)   
 
 ## TEAM  
 [![PlayStation](https://img.shields.io/badge/PlayStation-003791.svg?style=for-the-badge&logo=playstation&logoColor=white)](https://www.playstation.com/)  
