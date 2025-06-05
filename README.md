@@ -13,6 +13,7 @@
 ![VsCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91.svg?style=for-the-badge&logo=visual%20studio&logoColor=white)  
 
+## Lado Bom da Força
 ## ![PlayStation](https://img.shields.io/badge/PlayStation-003791.svg?style=for-the-badge&logo=playstation&logoColor=white)  
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=footer"/>
