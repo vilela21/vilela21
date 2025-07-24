@@ -6,6 +6,8 @@
 <img src="https://i.pinimg.com/736x/66/69/3d/66693dc53d3613b2a24c8ea1f6e37384.jpg" width="25%" align="right" />
 </div>
 
+
+
 ## My specialties... I guess  
 [![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://java.com) 
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/) 
@@ -16,12 +18,5 @@
 [![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)](https://insomnia.rest/)  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23000000.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-## IDE's:  
-[![Intellij IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)  
-[![VsCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)   
-
-## TEAM  
-[![PlayStation](https://img.shields.io/badge/PlayStation-003791.svg?style=for-the-badge&logo=playstation&logoColor=white)](https://www.playstation.com/)  
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=footer"/>
